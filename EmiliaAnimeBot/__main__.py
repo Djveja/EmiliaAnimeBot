@@ -54,8 +54,8 @@ def get_readable_time(seconds: int) -> str:
 
 
 PM_START_TEXT = """
-`Hey There!` [👩‍💼](https://telegra.ph/file/c766d686089a43e0ff33a.jpg) 
-`My name is` *Emilia*`
+`Hey There!` [😁](https://telegra.ph/file/2bd250c0a1041153c4d84.jpg) 
+`My name is` *Luffy*`
 `I am an Anime Themed group management bot.`
 You can find my list of available commands with` *🔐Commands*   
 """
@@ -63,7 +63,7 @@ You can find my list of available commands with` *🔐Commands*
 buttons = [
     [
         InlineKeyboardButton(
-            text="➕️ ADD EMILIA TO YOUR GROUP ➕️",url="t.me/EmiliaAnimeRoBot?startgroup=true"
+            text="➕️ ADD EMILIA TO YOUR GROUP ➕️",url="http://t.me/Luffy9bot?startgroup=true"
         ),
     ],
     [
@@ -73,7 +73,7 @@ buttons = [
     ],
     [
         InlineKeyboardButton(
-          text="📮 Updates", url="https://t.me/TangentXOfficial"
+          text="📮 Updates", url="https://t.me/Luffybotsupport"
         ),
       
         InlineKeyboardButton(
@@ -83,7 +83,7 @@ buttons = [
          
     [
        InlineKeyboardButton(
-           text="🐱 Support", url="https://t.me/TangentChats"
+           text="🐱 Support", url="📮 Updates", url="https://t.me/Luffybotsupport"
          ),
     ],
     [
@@ -96,8 +96,8 @@ buttons = [
 
 
 HELP_STRINGS = """
-`Hey there! My name is` [Emilia!](https://telegra.ph/file/e5fc94ada18369f89c832.jpg) 
-I'm a Half Elf and help admins manage their groups with Some Powerful Features! \n`Have a look at the following for an idea of some of the things I can help you with.`"""
+`Hey there! My name is` [Luffy!](https://telegra.ph/file/19164951f7c6f22d39177.jpg) 
+I'm a Pirate and help admins manage their groups with Some Powerful Features! \n`Have a look at the following for an idea of some of the things I can help you with.`"""
 
 DONATE_STRING = """
 Heya, glad to hear you want to donate!
