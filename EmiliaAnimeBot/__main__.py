@@ -73,17 +73,17 @@ buttons = [
     ],
     [
         InlineKeyboardButton(
-          text="📮 Updates", url="https://t.me/Luffybotsupport"
+          text="📮 Updates", url="https://t.me/Luffysupportchat"
         ),
       
         InlineKeyboardButton(
-          text="📑 Logs", url="https://t.me/tangentlogger"
+          text="📑 Logs", url="https://t.me/luffylogs"
         ),
     ],
          
     [
        InlineKeyboardButton(
-           text="🐱 Support", url="📮 Updates", url="https://t.me/Luffybotsupport"
+           text="🐱 Support", url="📮 Updates", url="https://t.me/Luffysupportchat"
          ),
     ],
     [
